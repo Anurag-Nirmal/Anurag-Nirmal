@@ -1,6 +1,6 @@
 # Hey there! 👋
 
-I'm Anurag Nirmal, a B.Tech ECE student at MNNIT Allahabad and a Full Stack Web Developer.
+I'm Anurag Nirmal, a B.Tech ECE student at MNNIT Allahabad, Full Stack Web Developer, and DSA enthusiast with 500+ solved problems.
 
 ## 🛠 Tech Stack
 
